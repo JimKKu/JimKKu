@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+我是Jimecc，很高兴见到你。
 <!--
 **Jimecc/Jimecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

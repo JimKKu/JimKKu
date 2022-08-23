@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi 👋
 
-我是Jimecc，很高兴见到你。
+I'm Jimecc，Nice to see u！
+
+<div style="background:red"><img src="https://files.catbox.moe/c1uojz.gif"/></div>
+
 <!--
 **Jimecc/Jimecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

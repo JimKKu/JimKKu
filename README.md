@@ -2,7 +2,7 @@
 
 I'm Jimecc，Nice to see u！
 
-<div><img style="border-radius:15px" src="https://files.catbox.moe/hz4gz4.png"/></div>
+
 
 
 <!--

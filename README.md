@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I'm Jimecc，Nice to see u！
+<sup>🌱 I’m currently learning ...</sup>
 
-> 最近对之前的一些代码做了一些整合，学习过程中难免产生一些💩山，这些代码都放在了Learn中。
+I'm Jimecc，Nice to see u！
 
 
 <!--

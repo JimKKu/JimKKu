@@ -1,8 +1,8 @@
 ### Hi 👋
 
-<sup>🌱 I’m currently learning ...</sup>
+<sup>📫 How to reach me: [E-mail](mailTo:sharycc@163.com)</sup>
 
-I'm Jimecc，Nice to see u！
+I'm Jim.kk，Nice to see u！
 
 
 <!--

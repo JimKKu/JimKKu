@@ -5,6 +5,8 @@
 I'm Jim.kk，Nice to see u！
 
 
+<div><img style="width: 200px" src="imgs/a.gif" alt="Hello"></div>
+
 <!--
 **Jimecc/Jimecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

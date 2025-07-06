@@ -1,13 +1,13 @@
 ### Hi 👋
 
-I'm Jim.kk，Nice to see u！
+I'm JimKKu，Nice to see u！
 
 
 <div><img style="width: 140px" src="imgs/a.gif" alt="Hello"></div>
 
 <br>
 
-<sup>📫 How to reach me: [E-mail](mailTo:sharycc@163.com)</sup>
+<sup>📫 How to reach me: [E-mail](mailTo:JimKKu@163.com)</sup>
 
 <!--
 **Jimecc/Jimecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

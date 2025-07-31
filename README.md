@@ -2,9 +2,6 @@
 
 I'm JimKKu，Nice to see u！
 
-
-<div><img style="width: 140px" src="imgs/a.gif" alt="Hello"></div>
-
 <br>
 
 <sup>📫 How to reach me: [E-mail](mailTo:JimKKu@163.com)</sup>

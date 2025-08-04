@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm JimKKu，Nice to see u！
+Here's JimKKu，Nice to see u！
 
 <br>
 
